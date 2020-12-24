@@ -36,17 +36,24 @@ Students are expected to complete advance reading, watch videos, summarise their
 
 # Grading
 
+5% each (x4) Participation grade for early Wikipedia exercises
 
-Through this course students are expected to produce:
+10% Participation in class blog or class discussions
+
+10% Peer reviews and collaborations with classmates
+
+50% Quality of your main Wiki contributions
+
+10% Reflective essay
+
+In this course students are expected to produce:
 
 Outline
-    \item A 500 word problem statement / rationale / research question.
+    - A 500 word problem statement / rationale / research question.
 Presentation
-    \item A 5 minute video presentation.
+    - A 5 minute video presentation.
 Paper
-    \item An 3000 words essay.
-
-
+    - An 3000 words essay.
 
 
 ## Participation (30%)
