@@ -1,7 +1,7 @@
-name: "REPOLINK"
+name: "CM3A-DP"
 exclude: [ "LICENSE", "README.md"]
 navbar:
-  title: "REPOLINK Sallybus"
+  title: "CM3A-DP Sallybus"
   type: default
   left:
     - text: "Home"
@@ -10,7 +10,7 @@ navbar:
     - text: "Schedule"
       href: schedule.html
       icon: fa-calendar-alt fa-lg
-    - text: "Assignments"
+    - text: "Project"
       href: assignments.html
       icon: fa-trophy fa-lg
   right:
