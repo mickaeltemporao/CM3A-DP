@@ -12,29 +12,32 @@ What do citizens think about politics and why does it matter? This course introd
 
 # Structure
 
-Asynchronous learning: This course is delivered through asynchronous learning activities.
-
-Each week scientific articles and videos will with shared with students.
-
-All students are expected to complete advance reading, compar
-Students are expected to
+Asynchronous learning: This course is delivered through asynchronous learning activities. You will have to manage your time to successfully achieve each of the weekly activites.
 
 
-prepare a research outline and a presentation and submit an essay.
+Each week the students are expected to complete various asynchronous activities.
 
-Students are expected to do the required readings and coding exercises for each week.
-Each week will build upon the contents of the previous weeks.
+Asynchronous Activities
 
-Asynchronous learning.
-This course is delivered through asynchronous online lectures.
-Each week the students will have to complete different asynchronous activities.
+
+- Summaries
+- Review
+-
+such as completing advance reading.
+
+do the required readings  for each week.
+
+Each week will build upon the contents of the previous ones.
+
+
+Prepare a research outline and a presentation and submit an essay.
+
 Students are expected to complete advance reading, watch videos, summarise their learnings, prepare a research outline, do a presentation and submit an essay.
 
 # Grading
 
 
 Through this course students are expected to produce:
-\begin{itemize}
 
 Outline
     \item A 500 word problem statement / rationale / research question.
@@ -43,7 +46,8 @@ Presentation
 Paper
     \item An 3000 words essay.
 
-\end{itemize}
+
+
 
 ## Participation (30%)
 ## Reports (30%)
@@ -55,6 +59,12 @@ Pertinence
 Ancrage théorique
 Innovation
 Argumentaire
+
+## Readings
+
+\@salganik2019bit
+\@vaccari2013digital
+\@coleman2015handbook
 
 
 # Licence & Credit
