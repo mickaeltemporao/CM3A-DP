@@ -1,7 +1,7 @@
-# REPOLINK
-Repository containing the source code for *CODE: Course Title*.
+# CM3A-DP
+Repository containing the source code for *CM3A-DP: Digital Politics*.
 
-The website can be found at: https://mickaeltemporao.github.io/REPOLINK/
+The website can be found at: https://mickaeltemporao.github.io/CM3A-DP/
 
 # LICENSE AND CREDIT
 Science should be open, and this repository builds up other open licensed material, so unless otherwise noted, all materials for this class are licensed under a [GNU Affero General Public License v3.0](https://spdx.org/licenses/AGPL-3.0-or-later.html).
