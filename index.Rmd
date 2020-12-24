@@ -1,24 +1,61 @@
 ---
-title: "Course Title"
-subtitle: "University"
-author: "Instructor: Mickael Temporão"
+title: "Digital Politics"
+subtitle: "Sciences Po Bordeaux"
+author: "Instructor: *Mickael Temporão*"
 ---
 
-The syllabus is tentative and subject to change.
+The syllabus is tentative and will continue to evolve. I kindly advise you to check it regularly.
 
 # Overview
 
-# Pre-requisites
+What do citizens think about politics and why does it matter? This course introduces students to the dynamics of public opinion and political behaviour. It will provide students with a theoretical understanding of the nature and origins of public opinion. We will explore the mechanisms through which citizens’ attitudes and behaviours are formed, organized, and altered over time. We will discuss the role of public opinion and its implications in democratic societies. The course will also introduce students to the modern practice of public opinion, going beyond traditional survey-based approaches, and engaging them with cutting-edge research that relies on digital trace data to address longstanding questions in political science.
+
+# Structure
+
+Asynchronous learning: This course is delivered through asynchronous learning activities.
+
+Each week scientific articles and videos will with shared with students.
+
+All students are expected to complete advance reading, compar
+Students are expected to
+
+
+prepare a research outline and a presentation and submit an essay.
+
+Students are expected to do the required readings and coding exercises for each week.
+Each week will build upon the contents of the previous weeks.
+
+Asynchronous learning.
+This course is delivered through asynchronous online lectures.
+Each week the students will have to complete different asynchronous activities.
+Students are expected to complete advance reading, watch videos, summarise their learnings, prepare a research outline, do a presentation and submit an essay.
 
 # Grading
 
-## Part 1 (25%)
 
-## Part 2 (25%)
+Through this course students are expected to produce:
+\begin{itemize}
 
-## Part 3 (50%)
+Outline
+    \item A 500 word problem statement / rationale / research question.
+Presentation
+    \item A 5 minute video presentation.
+Paper
+    \item An 3000 words essay.
 
-# Structure
+\end{itemize}
+
+## Participation (30%)
+## Reports (30%)
+
+## Project (40%)
+
+Structure
+Pertinence
+Ancrage théorique
+Innovation
+Argumentaire
+
 
 # Licence & Credit
 
