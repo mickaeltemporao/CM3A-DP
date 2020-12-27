@@ -10,6 +10,13 @@ The syllabus is tentative and will continue to evolve. I kindly advise you to ch
 
 What do citizens think about politics and why does it matter? This course introduces students to the dynamics of public opinion and political behaviour. It will provide students with a theoretical understanding of the nature and origins of public opinion. We will explore the mechanisms through which citizens’ attitudes and behaviours are formed, organized, and altered over time. We will discuss the role of public opinion and its implications in democratic societies. The course will also introduce students to the modern practice of public opinion, going beyond traditional survey-based approaches, and engaging them with cutting-edge research that relies on digital trace data to address longstanding questions in political science.
 
+## Learning objectives
+
+- writing skills
+- media and information literacy
+- critical thinking and research skills
+- collaboration
+
 # Structure
 
 Asynchronous learning: This course is delivered through asynchronous learning activities. You will have to manage your time to successfully achieve each of the weekly activites.
